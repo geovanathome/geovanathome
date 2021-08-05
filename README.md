@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![Geovana Thomé's github stats](https://github-readme-stats.vercel.app/api?username=geovanathome&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=geovanathome&v=2&langs_count=7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanathome)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=geovanathome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=geovanathome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=geovanathome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
